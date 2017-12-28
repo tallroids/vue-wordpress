@@ -1,0 +1,117 @@
+[{
+  "id": 2719,
+  "date": "2017-12-13T20:35:44",
+  "slug": "restoring-family-photos",
+  "type": "post",
+  "link": "http:\/\/www.harkermedia.com\/restoring-family-photos\/",
+  "title": {
+    "rendered": "Restoring Family Photos"
+  },
+  "excerpt": {
+    "rendered": "<p>Restoring Old Family Photos Recently, I have taken an extreme curiosity to learn more about my family tree. And as a photographer, one of the first places I looked to learn more about my family tree was by looking at some old family photos. I have especially come to have a desire to more about [&hellip;]<\/p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 2722,
+  "jetpack-related-posts": [{
+    "id": 677,
+    "url": "http:\/\/www.harkermedia.com\/how-to-edit-landscape-photos\/",
+    "url_meta": {
+      "origin": 2719,
+      "position": 0
+    },
+    "title": "How to Edit Landscape Photos",
+    "date": "October 18, 2016",
+    "format": false,
+    "excerpt": "This semester I have been focusing more on learning to edit and enjoy landscape photography. To help me learn more about landscape photography and enjoy it as well, I decided to make these videos that explain different simple ways to edit your photos to make them look more professional. Many\u2026",
+    "rel": "nofollow",
+    "context": "In \"Blog\"",
+    "img": {
+      "src": "https:\/\/i1.wp.com\/www.harkermedia.com\/wp-content\/uploads\/2015\/07\/BenHarker-Buried-in-Nature-Tree-Sunset.jpg?resize=350%2C200",
+      "width": 350,
+      "height": 200
+    },
+    "classes": []
+  }, {
+    "id": 1023,
+    "url": "http:\/\/www.harkermedia.com\/happy-landscapes\/",
+    "url_meta": {
+      "origin": 2719,
+      "position": 1
+    },
+    "title": "Happy Landscapes",
+    "date": "December 7, 2016",
+    "format": false,
+    "excerpt": "Landscapes Make Me Happy I have always been much more of a studio portrait photographer. I love working with lights, people and even just the editing process behind portraits is really fun for me. For my passion project this semester I worked on developing my photography skills for landscapes. For\u2026",
+    "rel": "nofollow",
+    "context": "In \"Blog\"",
+    "img": {
+      "src": "https:\/\/i0.wp.com\/janae.harkermedia.com\/wp-content\/uploads\/2016\/11\/Janae-Harker-Media-black-and-white-fine-art-print-final-625x417.jpg?resize=350%2C200",
+      "width": 350,
+      "height": 200
+    },
+    "classes": []
+  }, {
+    "id": 534,
+    "url": "http:\/\/www.harkermedia.com\/dramatic-mobile-lighting\/",
+    "url_meta": {
+      "origin": 2719,
+      "position": 2
+    },
+    "title": "Dramatic Mobile Lighting",
+    "date": "October 13, 2016",
+    "format": false,
+    "excerpt": "How to Get Dramatic Mobile Lighting Anywhere Did you know that you can get dramatic lighting any time of the day? In this blog I'm going to spill my secret about how to get dramatic mobile lighting literally anywhere. All you need to have dramatic lighting anywhere is a camera,\u2026",
+    "rel": "nofollow",
+    "context": "In \"Blog\"",
+    "img": {
+      "src": "https:\/\/i1.wp.com\/janae.harkermedia.com\/wp-content\/uploads\/2016\/10\/JanaeHarker-Dramatic-Mobile-Lighting-red-rose-417x625.jpg?resize=350%2C200",
+      "width": 350,
+      "height": 200
+    },
+    "classes": []
+  }],
+  "_links": {
+    "self": [{
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/posts\/2719"
+    }],
+    "collection": [{
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/posts"
+    }],
+    "about": [{
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/types\/post"
+    }],
+    "author": [{
+      "embeddable": true,
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/users\/3"
+    }],
+    "replies": [{
+      "embeddable": true,
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/comments?post=2719"
+    }],
+    "version-history": [{
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/posts\/2719\/revisions"
+    }],
+    "wp:featuredmedia": [{
+      "embeddable": true,
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/media\/2722"
+    }],
+    "wp:attachment": [{
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/media?parent=2719"
+    }],
+    "wp:term": [{
+      "taxonomy": "category",
+      "embeddable": true,
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/categories?post=2719"
+    }, {
+      "taxonomy": "post_tag",
+      "embeddable": true,
+      "href": "http:\/\/www.harkermedia.com\/wp-json\/wp\/v2\/tags?post=2719"
+    }],
+    "curies": [{
+      "name": "wp",
+      "href": "https:\/\/api.w.org\/{rel}",
+      "templated": true
+    }]
+  }
+}]
